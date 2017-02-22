@@ -2,19 +2,13 @@
 Notes and tools for working with Wikidata
 
 
-
+###Quick Statments Tool
 https://tools.wmflabs.org/wikidata-todo/quick_statements.php 
 
-
-https://www.wikidata.org/wiki/Property:P2048
-
+###Reasonator
 https://tools.wmflabs.org/reasonator/?q=Q28810544
 
-Auckland Museum Q16949336   Q758657
 
-P155 Follows
-
-P156 Followed by
 
 | Predicate     | Name          | Type  |
 | ------------- |:-------------:| -----:|
@@ -31,6 +25,8 @@ P156 Followed by
 |P2049|Height||
 |P2048|Width||
 |P2237|Has Unit|
+|P973|described at url|
+|P195|Collection|
 
 
 

@@ -11,7 +11,7 @@ https://tools.wmflabs.org/reasonator/?q=Q28810544
 
 
 | Predicate     | Name          | Type  |
-| ------------- |:-------------:| -----:|
+| :-------------: |:-------------:|:-----:|
 |P155|Follows|  |
 |P156|Followed by|   |
 |Len|Label|    |
